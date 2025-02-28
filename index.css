@@ -61,7 +61,7 @@ font-size:20px;
     display:flex;
     flex-wrap:wrap;
     gap: 10px;
-    justify-content: space-between
+    justify-content: space-between;
 }
 .button{
     flex: 1 1 calc(25% - 10px);
